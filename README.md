@@ -18,7 +18,8 @@ pip install torch torchvision pillow
 ## Usage
 ```bash
 git clone https://github.com/Pree46/Image-classifier-project
-cd pytorch-image-classification
+cd Image-Classifier-project
+cd home
 ```
 
 ## Authors
