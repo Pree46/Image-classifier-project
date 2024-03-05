@@ -22,7 +22,7 @@ cd Image-Classifier-project
 cd home
 ```
 
-## Authors
+## Models used
 
 - ResNet18
 - AlexNet
